@@ -6,7 +6,7 @@ class MiClase
         @name = name
       end
   
-    def saludar
+    def  saludar
      puts "Hola! Soy la clase #{@name}"
     end
    
